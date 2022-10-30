@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\bin\Debug\net6.0\CS19_Virtual_method.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\bin\Debug\net6.0\CS19_Virtual_method.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\bin\Debug\net6.0\CS19_Virtual_method.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\bin\Debug\net6.0\CS19_Virtual_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\bin\Debug\net6.0\CS19_Virtual_method.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\refint\CS19_Virtual_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\CS19_Virtual_method.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS19_Virtual_method\obj\Debug\net6.0\ref\CS19_Virtual_method.dll
