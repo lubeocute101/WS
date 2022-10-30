@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\bin\Debug\net6.0\CS17_Anonymous_type.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\bin\Debug\net6.0\CS17_Anonymous_type.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\bin\Debug\net6.0\CS17_Anonymous_type.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\bin\Debug\net6.0\CS17_Anonymous_type.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\bin\Debug\net6.0\CS17_Anonymous_type.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\refint\CS17_Anonymous_type.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\CS17_Anonymous_type.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS17_Anonymous_type\obj\Debug\net6.0\ref\CS17_Anonymous_type.dll

@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\bin\Debug\net6.0\CS09_method.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\bin\Debug\net6.0\CS09_method.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\bin\Debug\net6.0\CS09_method.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\bin\Debug\net6.0\CS09_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\bin\Debug\net6.0\CS09_method.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\refint\CS09_method.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\CS09_method.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS09_method\obj\Debug\net6.0\ref\CS09_method.dll

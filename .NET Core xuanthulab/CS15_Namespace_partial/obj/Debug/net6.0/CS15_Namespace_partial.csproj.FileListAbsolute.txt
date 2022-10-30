@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\bin\Debug\net6.0\CS15_Namespace_partial.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\bin\Debug\net6.0\CS15_Namespace_partial.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\bin\Debug\net6.0\CS15_Namespace_partial.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\bin\Debug\net6.0\CS15_Namespace_partial.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\bin\Debug\net6.0\CS15_Namespace_partial.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\refint\CS15_Namespace_partial.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\CS15_Namespace_partial.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS15_Namespace_partial\obj\Debug\net6.0\ref\CS15_Namespace_partial.dll

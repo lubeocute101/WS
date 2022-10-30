@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\bin\Debug\net6.0\CS14_inheritance.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\bin\Debug\net6.0\CS14_inheritance.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\bin\Debug\net6.0\CS14_inheritance.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\bin\Debug\net6.0\CS14_inheritance.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\bin\Debug\net6.0\CS14_inheritance.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\refint\CS14_inheritance.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\CS14_inheritance.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS14_inheritance\obj\Debug\net6.0\ref\CS14_inheritance.dll

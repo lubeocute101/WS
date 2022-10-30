@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\bin\Debug\net6.0\CS16_Generic.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\bin\Debug\net6.0\CS16_Generic.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\bin\Debug\net6.0\CS16_Generic.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\bin\Debug\net6.0\CS16_Generic.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\bin\Debug\net6.0\CS16_Generic.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\refint\CS16_Generic.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\CS16_Generic.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS16_Generic\obj\Debug\net6.0\ref\CS16_Generic.dll

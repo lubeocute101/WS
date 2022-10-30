@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\bin\Debug\net6.0\CS012_Array.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\bin\Debug\net6.0\CS012_Array.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\bin\Debug\net6.0\CS012_Array.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\bin\Debug\net6.0\CS012_Array.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\bin\Debug\net6.0\CS012_Array.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\refint\CS012_Array.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\CS012_Array.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS012_Array\obj\Debug\net6.0\ref\CS012_Array.dll

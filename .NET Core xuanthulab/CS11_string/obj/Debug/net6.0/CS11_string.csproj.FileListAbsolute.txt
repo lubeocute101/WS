@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\bin\Debug\net6.0\CS11_string.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\bin\Debug\net6.0\CS11_string.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\bin\Debug\net6.0\CS11_string.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\bin\Debug\net6.0\CS11_string.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\bin\Debug\net6.0\CS11_string.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\refint\CS11_string.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\CS11_string.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS11_string\obj\Debug\net6.0\ref\CS11_string.dll

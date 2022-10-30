@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\bin\Debug\net6.0\CS12_StructEnum.exe
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\bin\Debug\net6.0\CS12_StructEnum.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\bin\Debug\net6.0\CS12_StructEnum.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\bin\Debug\net6.0\CS12_StructEnum.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\bin\Debug\net6.0\CS12_StructEnum.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\refint\CS12_StructEnum.dll
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\CS12_StructEnum.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\.NET Core xuanthulab\CS12_StructEnum\obj\Debug\net6.0\ref\CS12_StructEnum.dll
