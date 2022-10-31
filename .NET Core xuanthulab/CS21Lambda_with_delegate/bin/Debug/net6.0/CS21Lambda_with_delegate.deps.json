@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CS21Lambda_with_delegate/1.0.0": {
+        "runtime": {
+          "CS21Lambda_with_delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS21Lambda_with_delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

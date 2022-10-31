@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\bin\Debug\net6.0\CS21Lambda_with_delegate.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\bin\Debug\net6.0\CS21Lambda_with_delegate.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\bin\Debug\net6.0\CS21Lambda_with_delegate.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\bin\Debug\net6.0\CS21Lambda_with_delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\bin\Debug\net6.0\CS21Lambda_with_delegate.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\refint\CS21Lambda_with_delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\CS21Lambda_with_delegate.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS21Lambda_with_delegate\obj\Debug\net6.0\ref\CS21Lambda_with_delegate.dll
