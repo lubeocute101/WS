@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\bin\Debug\net6.0\CS20_Delegate.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\refint\CS20_Delegate.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\CS20_Delegate.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS20_Delegate\obj\Debug\net6.0\ref\CS20_Delegate.dll
