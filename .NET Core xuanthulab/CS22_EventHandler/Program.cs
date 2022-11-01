@@ -21,6 +21,10 @@ namespace CS22_EventHandler
             tinhcan.Sub (userinput); // tham chiếu delegate tới method sqrt
 
             //Nhập và Invoke method
+            // userinput.Input();
+            // 2 Tính bình phương
+            BinhPhuong binhphuong = new BinhPhuong();
+            binhphuong.Sub (userinput);
             userinput.Input();
         }
     }
