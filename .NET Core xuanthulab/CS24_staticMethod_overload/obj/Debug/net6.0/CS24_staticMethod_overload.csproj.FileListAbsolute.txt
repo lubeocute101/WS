@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\bin\Debug\net6.0\CS24_staticMethod_overload.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\bin\Debug\net6.0\CS24_staticMethod_overload.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\bin\Debug\net6.0\CS24_staticMethod_overload.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\bin\Debug\net6.0\CS24_staticMethod_overload.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\bin\Debug\net6.0\CS24_staticMethod_overload.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\refint\CS24_staticMethod_overload.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\CS24_staticMethod_overload.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS24_staticMethod_overload\obj\Debug\net6.0\ref\CS24_staticMethod_overload.dll
