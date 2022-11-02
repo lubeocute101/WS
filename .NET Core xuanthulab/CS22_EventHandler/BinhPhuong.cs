@@ -1,15 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace CS22_EventHandler
 {
-    class BinhPhuong
+    public class BinhPhuong
     {
         public void Sub(UserInput input)
         {
-            input.sukiennhapso = TinhBinhPhuong;
+            input.sukiennhapso += TinhBinhPhuong;
         }
-
-        public void TinhBinhPhuong(int n)
+        // ~ dekegate void KIEU(Object? sender, EventArgs args)
+        public void TinhBinhPhuong(Object sender, EventArgs e)
         {
-            System.Console.WriteLine($"Binh phuong cua {n} la: {n * n}");
+            Dulieunhap dulieunhap = (Dulieunhap)e;
+            int n = dulieunhap.data;
+            Console.WriteLine($"Binh phuong cua {n} la {Math.Sqrt(n * n)}");
         }
     }
 }

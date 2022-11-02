@@ -1,15 +1,17 @@
 namespace CS22_EventHandler
 {
-    class TinhCan
+    public class Tinhcan
     {
         public void Sub(UserInput input)
         {
-            input.sukiennhapso = Can;
+            input.sukiennhapso += TinhCan;
         }
-
-        public void Can(int n)
+        // ~ dekegate void KIEU(Object? sender, EventArgs args)
+        public void TinhCan(Object sender, EventArgs e)
         {
-            System.Console.WriteLine($"Can bac hai cua {n} la: {Math.Sqrt(n)}");
+            Dulieunhap dulieunhap = (Dulieunhap)e;
+            int n = dulieunhap.data;
+            Console.WriteLine($"Can bac hai cua {n} la {Math.Sqrt(n)}");
         }
     }
 }
