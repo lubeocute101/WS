@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\bin\Debug\net6.0\CS23_ExtensionMethod.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\bin\Debug\net6.0\CS23_ExtensionMethod.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\bin\Debug\net6.0\CS23_ExtensionMethod.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\bin\Debug\net6.0\CS23_ExtensionMethod.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\bin\Debug\net6.0\CS23_ExtensionMethod.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\refint\CS23_ExtensionMethod.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\CS23_ExtensionMethod.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\obj\Debug\net6.0\ref\CS23_ExtensionMethod.dll
