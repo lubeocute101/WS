@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CS23_ExtensionMethod
-build_property.ProjectDir = c:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS23_ExtensionMethod\
+build_property.RootNamespace = CS25_Exception
+build_property.ProjectDir = C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\

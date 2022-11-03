@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\bin\Debug\net6.0\CS25_Exception.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\bin\Debug\net6.0\CS25_Exception.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\bin\Debug\net6.0\CS25_Exception.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\bin\Debug\net6.0\CS25_Exception.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\bin\Debug\net6.0\CS25_Exception.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\refint\CS25_Exception.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\CS25_Exception.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS25_Exception\obj\Debug\net6.0\ref\CS25_Exception.dll
