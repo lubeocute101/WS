@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\bin\Debug\net6.0\CS27_Queue_Stack.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\bin\Debug\net6.0\CS27_Queue_Stack.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\bin\Debug\net6.0\CS27_Queue_Stack.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\bin\Debug\net6.0\CS27_Queue_Stack.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\bin\Debug\net6.0\CS27_Queue_Stack.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\refint\CS27_Queue_Stack.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\CS27_Queue_Stack.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS27_Queue_Stack\obj\Debug\net6.0\ref\CS27_Queue_Stack.dll
