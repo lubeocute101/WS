@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\bin\Debug\net6.0\CS26_List_SortedList.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\bin\Debug\net6.0\CS26_List_SortedList.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\bin\Debug\net6.0\CS26_List_SortedList.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\bin\Debug\net6.0\CS26_List_SortedList.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\bin\Debug\net6.0\CS26_List_SortedList.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\refint\CS26_List_SortedList.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\CS26_List_SortedList.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS26_List_SortedList\obj\Debug\net6.0\ref\CS26_List_SortedList.dll
