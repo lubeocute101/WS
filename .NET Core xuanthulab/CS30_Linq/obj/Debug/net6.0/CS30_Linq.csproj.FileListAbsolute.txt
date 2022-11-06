@@ -1,0 +1,15 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\bin\Debug\net6.0\CS30_Linq.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\bin\Debug\net6.0\CS30_Linq.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\bin\Debug\net6.0\CS30_Linq.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\bin\Debug\net6.0\CS30_Linq.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\bin\Debug\net6.0\CS30_Linq.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\refint\CS30_Linq.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\CS30_Linq.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS30_Linq\obj\Debug\net6.0\ref\CS30_Linq.dll
