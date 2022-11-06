@@ -1,0 +1,17 @@
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\CS31_nuget.exe
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\CS31_nuget.deps.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\CS31_nuget.runtimeconfig.json
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\CS31_nuget.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\CS31_nuget.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.csproj.AssemblyReference.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.AssemblyInfoInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.AssemblyInfo.cs
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.csproj.CoreCompileInputs.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\refint\CS31_nuget.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.pdb
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.genruntimeconfig.cache
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\ref\CS31_nuget.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lchry\Dropbox\PC\Desktop\WS\.NET Core xuanthulab\CS31_nuget\obj\Debug\net6.0\CS31_nuget.csproj.CopyComplete
