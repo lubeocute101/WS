@@ -1,20 +1,12 @@
-arrToObj = (arr) => {
-	return arr.reduce((acc, cur) => {
-		acc[cur[0] = cur[1]];
-		return acc;
-	}, {})
+let btn = document.getElementById('btn');
+viec1 = () => {
+	console.log('viec1');
 }
-function arrToObj(arr) {
-    return arr.reduce((acc, cur) => {
-        acc[cur[0]] = cur[1];
-        return acc;
-    }, {});
+viec2 = () => {
+	console.log('viec2');
 }
-console.clear()
-
-// Expected results:
-var arr = [
-	['name', 'Sơn Đặng'],
-	['age', 18],
-];
-console.log(arrToObj(arr)); // { name: 'Sơn Đặng', age: 18 }
+btn.addEventListener('click', viec2);
+btn.addEventListener('click', viec1);
+setTimeout(() => {
+	btn.removeEventListener('click', viec1)
+}, 3000);
