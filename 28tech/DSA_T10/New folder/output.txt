@@ -1,0 +1,4 @@
+max = 1
+min = 6
+accumulate = 21
+reverse = 3 2 4 5 6 1 
