@@ -2,9 +2,9 @@
 using namespace std;
 using ll = long long;
 void convert(int n){
-    if (n < 2) cout << n % 2;
+    if (n < 2)  cout << n % 2;
     else{
-        convert(n/2);
+        convert(n / 2);
         cout << n % 2;
     }
 }
@@ -15,6 +15,6 @@ int main()
     freopen("output.txt", "w", stdout);
     #endif
     ios_base::sync_with_stdio(false);
-    cin.tie(nullptr); 
-    convert(16);
+    cin.tie(nullptr);
+    convert(10);
 }
